@@ -169,9 +169,6 @@ function init() {
 
 document.addEventListener("DOMContentLoaded", init);
 
-}(console)</script></body>`)
 
-  console.log('添加 tamperJS：Endless_Google.user.js')
-}
 
 $done({ body })
